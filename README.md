@@ -1,18 +1,20 @@
-<div allign="center">
+<div align="center">
 
 # 👾 RUAN PABLO
 
 ### 'FULL STACK DEVELOPER IN PROGRESS'
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause==1000&color=FF4D6D&center=true&width=550&lines=Building+ideas+into+application;Leraning+Backend+%26+Frontend;JavaScript+%7C+Node.js+%7C+PostgreSQL+%7C+React+%7C+Tailwind+%7C+Vite" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF4D6D&center=true&vCenter=true&width=550&lines=Building+ideas+into+applications;Learning+Backend+%26+Frontend;JavaScript+%7C+Node.js+%7C+PostgreSQL+%7C+React+%7C+Tailwind+%7C+Vite" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub](https:img.shields.io/badge/GitHub-Rp--1177-0d1117?style=for-the-badge&logo=github&logoColor=ff4d6d)](https://github.com/Rp-1177)
+<a href="https://github.com/Rp-1177">
+<img src="https://img.shields.io/badge/GitHub-Rp--1177-0d1117?style=for-the-badge&logo=github&logoColor=ff4d6d" />
+</a>
 
 </div>
 
----
+---s
 
 ## 🎮 PLAYER PROFILE
 
@@ -54,7 +56,7 @@ STATUS: Always learning...
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rp-1177&show_icons=true&hide_border=true&title_color=ff4d6d&icon_color=ff4d6d&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src= "https://github-readme-stats.vercel.app/api?username=Rp-1177&show_icons=true&hide_border=true&title_color=ff4d6d&icon_color=ff4d6d&text_color=c9d1d9&bg_color=0d1117" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rp-1177&layout=compact&hide_border=true&title_color=ff4d6d&text_color=c9d1d9&bg_color=0d1117" />
 
