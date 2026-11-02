@@ -18,7 +18,7 @@ jobs:
         with:
           go-version: stable
 
-      - name: Generate city
+      - name: Draw city
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -35,5 +35,5 @@ jobs:
           git add skyline.svg
           git -c user.name="github-actions[bot]" \
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
-              commit -qm "Update skyline"
+              commit -qm "Update city"
           git push -qf "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" city

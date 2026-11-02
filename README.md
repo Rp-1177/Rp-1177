@@ -4,7 +4,7 @@
 
 ### 'FULL STACK DEVELOPER IN PROGRESS'
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF4D6D&center=true&vCenter=true&width=550&lines=Building+ideas+into+applications;Learning+Backend+%26+Frontend;JavaScript+%7C+Node.js+%7C+PostgreSQL+%7C+React+%7C+Tailwind+%7C+Vite" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF4D6D&center=true&vCenter=true&width=850&height=50&lines=Building+ideas+into+applications;Learning+Backend+%26+Frontend;JavaScript+%7C+React+%7C+Vite+%7C+Tailwind+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
 
 <br/>
 
@@ -56,9 +56,9 @@ STATUS: Always learning...
 
 <div align="center">
 
-<img height="165" src= "https://github-readme-stats.vercel.app/api?username=Rp-1177&show_icons=true&hide_border=true&title_color=ff4d6d&icon_color=ff4d6d&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src= "https://github-stats-extended.vercel.app/api?username=Rp-1177&show_icons=true&hide_border=true&title_color=ff4d6d&icon_color=ff4d6d&text_color=c9d1d9&bg_color=0d1117" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rp-1177&layout=compact&hide_border=true&title_color=ff4d6d&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rp-1177&layout=compact&hide_border=true&title_color=ff4d6d&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
@@ -83,15 +83,15 @@ STATUS: Always learning...
 <div align="center">
 
 <a href="https://github.com/Rp-1177/portfolio-rp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-1177&repo=portfolio-rp&theme=dark&hide_border=true&title_color=ff4d6d" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rp-1177&repo=portfolio-rp&theme=dark&hide_border=true&title_color=ff4d6d" />
 </a>
 
 <a href="https://github.com/Rp-1177/To-Do-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-1177&repo=To-Do-API&theme=dark&hide_border=true&title_color=ff4d6d" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rp-1177&repo=To-Do-API&theme=dark&hide_border=true&title_color=ff4d6d" />
 </a>
 
 <a href="https://github.com/Rp-1177/projeto_full-stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-1177&repo=projeto_full-stack&theme=dark&hide_border=true&title_color=ff4d6d" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rp-1177&repo=projeto_full-stack&theme=dark&hide_border=true&title_color=ff4d6d" />
 </a>
 
 </div>
