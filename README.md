@@ -14,8 +14,6 @@
 
 </div>
 
----s
-
 ## 🎮 PLAYER PROFILE
 
 ```text
