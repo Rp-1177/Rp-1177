@@ -80,8 +80,8 @@ STATUS: Always learning...
 
 <div align="center">
 
-<a href="https://github.com/Rp-1177/portfolio-rp">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rp-1177&repo=portfolio-rp&theme=dark&hide_border=true&title_color=ff4d6d" />
+<a href="https://github.com/Rp-1177/new-portfolio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rp-1177&repo=new-portfolio&theme=dark&hide_border=true&title_color=ff4d6d" />
 </a>
 
 <a href="https://github.com/Rp-1177/To-Do-API">
